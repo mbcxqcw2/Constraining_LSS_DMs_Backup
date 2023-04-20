@@ -31,20 +31,23 @@ I.e. Things which will probably be necessary to run these codes/create new data.
   - associated `.sh` scripts
   - subhalo/particle ID matchlists created with `work_directory/Create_Particle_Subhalo_Matchlists_5.ipynb`
 
-- Fig. 1: `Paper_Plots_TNG_Slice_Structure.ipynb`
-- Fig. 2: `work_directory/Paper_Plots_Ne_Analysis.ipynb`
-- Fig. 3: `work_directory/Paper_Plots_Ne_Analysis.ipynb`
-- Fig. 4: `work_directory/Paper_Plots_Pipe_Structure_Subhalos.ipynb`
-- Fig. 5: `work_directory/Paper_Plots_Fitting_3.ipynb`
-- Fig. 6: `work_directory/Paper_Plots_DMs.ipynb`
-- Fig. 7: `work_directory/Pipe_LSS_Analysis_5.ipynb`
-- Fig. 8: `work_directory/Paper_Plots_IF_vs_DM_3.ipynb`
-- Fig. 9: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
-- Fig. 10: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
-- Table 3: `work_directory/Paper_Plots_Fitting_3.ipynb`
-- Table 4: `work_directory/Paper_Plots_DMs.ipynb`,`work_directory/Pipe_LSS_Analysis_5.ipynb`
-- Table 5: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
-- Table 6: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
-- Table 7: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
+- Figs.:
+  - Fig. 1: `Paper_Plots_TNG_Slice_Structure.ipynb`
+  - Fig. 2: `work_directory/Paper_Plots_Ne_Analysis.ipynb`
+  - Fig. 3: `work_directory/Paper_Plots_Ne_Analysis.ipynb`
+  - Fig. 4: `work_directory/Paper_Plots_Pipe_Structure_Subhalos.ipynb`
+  - Fig. 5: `work_directory/Paper_Plots_Fitting_3.ipynb`
+  - Fig. 6: `work_directory/Paper_Plots_DMs.ipynb`
+  - Fig. 7: `work_directory/Pipe_LSS_Analysis_5.ipynb`
+  - Fig. 8: `work_directory/Paper_Plots_IF_vs_DM_3.ipynb`
+  - Fig. 9: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
+  - Fig. 10: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
+
+- Tables:
+  - Table 3: `work_directory/Paper_Plots_Fitting_3.ipynb`
+  - Table 4: `work_directory/Paper_Plots_DMs.ipynb`,`work_directory/Pipe_LSS_Analysis_5.ipynb`
+  - Table 5: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
+  - Table 6: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
+  - Table 7: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
 
 More detailed info to follow.
