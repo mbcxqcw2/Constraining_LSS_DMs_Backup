@@ -8,7 +8,7 @@ This repository contains a limited copy of the working directory used to generat
 - However the original directory structure is preserved for easier recreation of said data if necessary
 - Currently, `work_directory/Paper_Plots_Pipe.ipynb` is ignored (in `.gitignore`) as its ~500MB size exceeds github's ~100MB upload limits.
 
-The original directory containing this work is at /u/cwalker/Illustris_Zhang_Method/ on raven.
+The original directory containing this work is at `/u/cwalker/Illustris_Zhang_Method/` on raven. This repository is at `/u/cwalker/git_uploads/TNG_project_backups/Constraining_LSS_DMs_Backup/` on raven.
 
 ---
 
