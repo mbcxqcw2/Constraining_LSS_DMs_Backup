@@ -24,8 +24,12 @@ I.e. Things which will probably be necessary to run these codes/create new data.
 # CODE WHICH GENERATES DATA FOR PAPER FIGS/TABLES
 
 - The pipes/los segments themselves:
--- `work_directory/batch_jobs/batch_scripts/make_pipes_5.py` and associated `.sh` scripts
-- The true subhaloIDs associated with these pipes: `batch_jobs/batch_scripts/get_subhaloIDs_1.py` and associated `.sh` scripts and the subhalo/particle ID matchlists created with `work_directory/Create_Particle_Subhalo_Matchlists_5.ipynb`
+ - `work_directory/batch_jobs/batch_scripts/make_pipes_5.py`
+ - associated `.sh` scripts
+- The true subhaloIDs associated with these pipes:
+ - `batch_jobs/batch_scripts/get_subhaloIDs_1.py`
+ - associated `.sh` scripts
+ - subhalo/particle ID matchlists created with `work_directory/Create_Particle_Subhalo_Matchlists_5.ipynb`
 
 - Fig. 1: `Paper_Plots_TNG_Slice_Structure.ipynb`
 - Fig. 2: `work_directory/Paper_Plots_Ne_Analysis.ipynb`
