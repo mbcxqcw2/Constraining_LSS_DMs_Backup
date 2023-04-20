@@ -25,12 +25,12 @@ I.e. Things which will probably be necessary to run these codes/create new data.
 
 - The pipes/los segments themselves are created with:
   - `work_directory/batch_jobs/batch_scripts/make_pipes_5.py`
-  - associated `.sh` scripts
+  - associated slurm batch `.sh` scripts in `work_directory/batch_jobs/batch_scripts/`
   - Note: for speed, these are created sith temporary, placeholder subhaloIDs.
   - The resulting pipes are output to `work_directory/SpeedTest/` or `work_directory/SpeedTempTest/`.
 - The true subhaloID lists associated with the above created pipes are created with:
   - `batch_jobs/batch_scripts/get_subhaloIDs_1.py`
-  - associated `.sh` scripts
+  - associated slurm batch `.sh` scripts in `work_directory/batch_jobs/batch_scripts/`
   - subhalo/particle ID matchlists created with `work_directory/Create_Particle_Subhalo_Matchlists_5.ipynb`
   - The resulting subhaloID lists are output to `work_directory/SpeedTempTest/`
 
