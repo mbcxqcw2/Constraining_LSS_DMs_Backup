@@ -49,7 +49,8 @@ I.e. Things which will probably be necessary to run these codes/create new data.
 - Tables:
   - Table 3: `work_directory/Paper_Plots_Fitting_3.ipynb`
   - Table 4: `work_directory/Paper_Plots_DMs.ipynb`,`work_directory/Pipe_LSS_Analysis_5.ipynb`
-  - Table 5: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
+  - Table 5: `work_directory/Paper_Plots_IF_vs_DM_3.ipynb`
   - Table 6: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
   - Table 7: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
+  - Table 8: `work_directory/Paper_Plots_Subhalo_Analysis_By_Mass.ipynb`
 
